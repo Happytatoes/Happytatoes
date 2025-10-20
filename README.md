@@ -1,7 +1,8 @@
 # hey, i'm noah ✌️ 
 
+I taught 300 people how to code. My apps have 2.8k+ interactions.  
 Incoming Cybersecurity Analyst | Software @ Longhorn Developers | Co-Founded Java Junction | CS + Stats @ UT  
-I taught 300 people how to code. My apps have 2.8k+ interactions.
+noaheverestwong [at] gmail [dot] com | [LinkedIn](https://www.linkedin.com/in/noah-wong-atx/) | [happytatoes.com](https://happytatoes.com)  
 
 ## Leadership and Impact
 
@@ -17,8 +18,5 @@ I taught 300 people how to code. My apps have 2.8k+ interactions.
 **Babble** - Custom LLM generator that creates language models based on textual user inputs  
 **Red Cross App** - Designed Android blueprint for International Humanitarian Law
 
-### Let's Connect
 
-[happytatoes.com](https://happytatoes.com)  
-noaheverestwong [at] gmail [dot] com  
-[LinkedIn](https://www.linkedin.com/in/noah-wong-atx/)  
+
