@@ -1,10 +1,7 @@
 # hey, i'm noah ✌️ 
 
 Incoming Cybersecurity Analyst | Software @ Longhorn Developers | Co-Founded Java Junction | CS + Stats @ UT
-
 I taught 300 people how to code. My apps have 2.8k+ interactions.
-
----
 
 ## Leadership and Impact
 
@@ -19,8 +16,6 @@ I taught 300 people how to code. My apps have 2.8k+ interactions.
 **Echoes** - Real-time chat application that reached 1,200+ messages from active users  
 **Babble** - Custom LLM generator that creates language models based on textual user inputs
 **Red Cross App** - Designed Android blueprint for International Humanitarian Law
-
----
 
 ### Let's Connect
 
