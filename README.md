@@ -1,7 +1,6 @@
 # hey, i'm noah ✌️ 
 
 Incoming Cybersecurity Analyst | Software @ Longhorn Developers | Co-Founded Java Junction | CS + Stats @ UT
-
 I taught 300 people how to code. My apps have 2.8k+ interactions.
 
 ---
