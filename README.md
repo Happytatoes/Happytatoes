@@ -1,20 +1,3 @@
 # hey, i'm noah ✌️ 
 
-I'm a CS major at UT Austin, a Developer Fellow working on Mobilize UT, and the Co-founder of Java Junction. I am passionate about building community in tech, and I have taught over 300 people how to code and created applications with over 2,800 user impressions. I'm a lifelong learner who loves working on projects that help people. Currently, I'm getting into Cybersecurity and Agentic AI.
-
-## Leadership and Impact
-
-**Co-Founded Java Junction** - Built and ran a coding bootcamp that taught 150+ students Java and software fundamentals  
-**Led STEM Honor Society** - Grew club to 200+ members, organized workshops and competitions  
-**5i Robotics Instructor** - Taught students robotics and programming fundamentals  
-**1-on-1 Tutoring** - Coached 15+ students in debate, research methods, and video game development  
-
-## Things I've Built
-
-**Penny** - AI-powered financial pet that analyzes market data and gives personalized tips with cute reactions  
-**Echoes** - Real-time chat application that reached 1,200+ messages from active users  
-**Babble** - Custom LLM generator that creates language models based on textual user inputs  
-**Red Cross App** - Designed Android blueprint for International Humanitarian Law
-
-noaheverestwong [at] gmail [dot] com | [LinkedIn](https://www.linkedin.com/in/noah-wong-atx/) | [happytatoes.com](https://happytatoes.com)  
-
+I'm a CS major at UT Austin passionate about building community, technology, and knowledge. I'm a lifelong learner who loves working on projects that help people.
