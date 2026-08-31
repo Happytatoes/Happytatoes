@@ -1,3 +1,3 @@
 # hey, i'm noah :)
 
-Interested in cybersecurity, systems, and ML
+Interested in systems and cybersecurity - kernels, architecture, embedded tech, robotics, space tech, and low-latency software.
